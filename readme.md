@@ -1,1 +1,1 @@
-Timer and Countdown app using React.js
+Todo app using React.js
